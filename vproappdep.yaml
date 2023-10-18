@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vproapp
-        image: overloadua/vprofileapp
+        image: vprofile/vprofileapp
         resources:
           limits:
             memory: "128Mi"
